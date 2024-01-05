@@ -1,0 +1,96 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "title": "KFC Drink Set",
+      "price": 3000,
+      "description": "This is KFC Drink Set",
+      "categories": [
+        "Chicken",
+        "Drinks"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "KFC Burger Fries Set",
+      "price": 5000,
+      "description": "This is KFC Burger Fries Set",
+      "categories": [
+        "Chicken",
+        "Burger",
+        "Fries"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "KFC Burger Drink Set",
+      "price": 2500,
+      "description": "This is KFC Burger Drink Set",
+      "categories": [
+        "Burger",
+        "Chicken",
+        "Drink"
+      ]
+    },
+    {
+      "title": "Kenta Chicken",
+      "price": "4500",
+      "description": "This is Kenta Chicken",
+      "categories": [
+        "Drinks",
+        "Chick"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Kenta Chicken",
+      "price": "4500",
+      "description": "This is Kenta Chicken",
+      "categories": [
+        "Drinks",
+        "Chick"
+      ],
+      "id": 6
+    },
+    {
+      "title": "asdsad",
+      "price": "4500",
+      "description": "asdsadasdsadavcxv",
+      "categories": [
+        "Kenta ",
+        "Chick"
+      ],
+      "id": 7
+    },
+    {
+      "title": "KFC Burger",
+      "price": "7000",
+      "description": "This is KFC burgerrrrrrrrrr",
+      "categories": [
+        "Chicken",
+        "Burger"
+      ],
+      "id": 8
+    },
+    {
+      "title": "KFC Burger",
+      "price": "7000",
+      "description": "asdasgcxvwerewr",
+      "categories": [
+        "asdsad",
+        "Kenta Chicken"
+      ],
+      "id": 9
+    },
+    {
+      "title": "KFC Burger",
+      "price": "7000",
+      "description": "sadsadsafdf",
+      "categories": [
+        "Kenta Chicken",
+        "KFC Burger"
+      ],
+      "id": 10
+    }
+  ]
+}
